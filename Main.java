@@ -5,7 +5,8 @@ class Main {
         System.out.println(x:"everyone");
         System.out.println("hi");
         System.out.println("iam ajay");
-        System,out.println("i am 20 years");
+        System.out.println("i am 20 years");
+        System.out.println("i am cse student");
 
         }
 }
